@@ -51,8 +51,7 @@ const ProductList = (props) => {
                 </div>
               </div>
                 )
-              }
-                
+              }              
               </div>
             </div>
           );
@@ -61,5 +60,4 @@ const ProductList = (props) => {
     </>
   );
 };
-
 export default ProductList;
