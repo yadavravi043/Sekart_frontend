@@ -1,12 +1,12 @@
 import React from 'react'
-import Header from '../../components/header/Header'
-import MenuHeader from '../../components/menuHeader/MenuHeader'
+import Layout from '../../components/Layout/Layout'
 
 const Home = () => {
   return (
     <div>
-       <Header/>
-       <MenuHeader/>
+       <Layout>
+         hame page
+       </Layout>
     </div>
   )
 }
